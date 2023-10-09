@@ -4,6 +4,6 @@ class student:
         self.age=age
         self.rlno=rlno
 
-stu=student("arsath",23,1101)
+stu=student("arsath",23,1102)
 print(stu.age)
         
