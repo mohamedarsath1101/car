@@ -5,5 +5,5 @@ class student:
         self.rlno=rlno
 
 stu=student("arsath",23,1101)
-print(stu.age)
+print(stu.rlno)
         
